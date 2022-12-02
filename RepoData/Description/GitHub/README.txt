@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Assistant is both a desktop guide and a voice assistant for the Candroid framework. It is designed to replace the Google Assistant found in Android, and also the desktop guide in early versions of Android (for example: Android 2.3)
